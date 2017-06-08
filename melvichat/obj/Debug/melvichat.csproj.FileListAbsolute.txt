@@ -1,0 +1,5 @@
+D:\melvichat\melvichat\bin\melvichat.dll
+D:\melvichat\melvichat\bin\melvichat.pdb
+D:\melvichat\melvichat\obj\Debug\melvichat.csprojResolveAssemblyReference.cache
+D:\melvichat\melvichat\obj\Debug\melvichat.dll
+D:\melvichat\melvichat\obj\Debug\melvichat.pdb
